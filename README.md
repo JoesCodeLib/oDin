@@ -1,9 +1,9 @@
 # Odin Project Repository
 
-Practice codes for the Odin Project
-Started: April 3rd, 2024
-End goal: May 3rd, 2024
-Goal: Finish up till full stack JavaScript
+Practice codes for the Odin Project \n
+Started: April 3rd, 2024 \n
+End goal: May 3rd, 2024 \n
+Goal: Finish up till full stack JavaScript \n
 
 Coder = Joe Coding
 
